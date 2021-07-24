@@ -1,6 +1,6 @@
 {
-  "name": "RAM-UBOT",
-  "description": "[RAM-UBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "name": "VIR-UBOT",
+  "description": "[VIR-UBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
   "logo": "https://telegra.ph/file/be5a4a2cb6aac37ca7945.jpg",
   "keywords": [
     "telegram",
@@ -9,17 +9,17 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ramadhani892/RAM-UBOT",
-  "telegram": "https://t.me/Ramadhaniiiiiii1",
-  "success_url": "https://t.me/teman_random",
+  "repository": "https://github.com/farizjr1/VIR-UBOT",
+  "telegram": "https://farizjlr",
+  "success_url": "https://t.me/MusicVirChannel",
   "stack": "container",
   "env": {
     "API_KEY": {
-      "description": "Dapatkan Api Key di web my.telegram.org.",
+      "description": "Dapatkan Api Key di web my.telegram.org atau di @LebahSupportBot.",
       "required": true
     },
     "API_HASH": {
-      "description": "Dapatkan Api Hash Di Web my.telegram.org.",
+      "description": "Dapatkan Api Hash Di Web my.telegram.org atau di @LebahSupportBot.",
       "required": true
     },
     "ALIVE_LOGO": {
@@ -28,7 +28,7 @@
       "required": true
      },
      "STRING_SESSION": {
-      "description": "Ambil String Session di @ramubotspam dengan cara ketik #string.",
+      "description": "Ambil String Session di replit.",
       "required": true
     },
     "HEROKU_APP_NAME": {
@@ -90,7 +90,7 @@
       "required": false
     },
     "G_BAN_LOGGER_GROUP": {
-      "description": "Masuk @ootspambot Atau Buatlah Sebuah Grup Private/Public Lalu Masukkan @goku_isbot Lalu Ketik /id, Salin dan hapus id dibawah ini lalu tempel.",
+      "description": "Buatlah Sebuah Grup Private/Public Lalu Masukkan @missRose_bot Lalu Ketik /id, Salin dan hapus id dibawah ini lalu tempel.",
       "value": "-1001122897608",
       "required": false
     },
