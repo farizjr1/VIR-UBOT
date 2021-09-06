@@ -84,7 +84,7 @@ async def typewriter(typew):
     sleep(2)
     await typew.edit("`\n(\\_/)`"
                      "`\n(●_●)`"
-                     "`\n💔<\\  *KENTOD`")
+                     "`\n💔<\\  *MWEHEEHEH`")
 
 
 @bot.on(events.NewMessage(pattern=r"\.(.*)", outgoing=True))
@@ -168,7 +168,7 @@ async def typewriter(typew):
     sleep(5)
     await typew.edit("`\n(\\_/)`"
                      "`\n(●_●)`"
-                     "`\n💖<\\  *Tapi Bo'ong`")
+                     "`\n💖<\\  *Tapi Bo'ong Mwehehehe`")
 # Alpinnnn Gans
 
 
