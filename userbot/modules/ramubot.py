@@ -6,11 +6,11 @@ from userbot.events import register
 @register(outgoing=True, pattern='^.sadboy(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    sleep(2)
+    sleep(4)
     await typew.edit("`Pertama-tama kamu cantik`")
-    sleep(2)
+    sleep(4)
     await typew.edit("`Kedua kamu manis`")
-    sleep(1)
+    sleep(4)
     await typew.edit("`Dan yang terakhir adalah kamu bukan jodohku`")
 # Create by myself @localheart
 
