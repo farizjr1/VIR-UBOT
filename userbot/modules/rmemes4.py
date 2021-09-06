@@ -394,7 +394,7 @@ async def typewriter(typew):
 async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit("**Mutualan Yukkk!...**")
-    sleep(2)
+    sleep(10)
     await typew.edit(f"𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌= [𝐓𝐄𝐊𝐀𝐍]({IG_ALIVE})")
 
 
