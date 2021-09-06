@@ -8,7 +8,7 @@ async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit(f"`{ALIVE_NAME} Berusaha Menyantet`")
     sleep(2)
-    await typew.edit("`Mencari Nama Jamet Ini...`")
+    await typew.edit("`Mencari Nama Ini...`")
     sleep(1)
     await typew.edit("`Santet Online Segera Dilakukan,Mampus Lu!!`")
     sleep(1)
